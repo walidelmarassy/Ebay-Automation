@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://www.ebay.com/",
+  "searchQuery": "mazda mx-5",
+  "filters": {
+    "transmission": "Manual"
+  }
+}
