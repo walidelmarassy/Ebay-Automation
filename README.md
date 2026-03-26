@@ -142,6 +142,9 @@ cd ebay_automation_java
 ```bash
 mvn clean install
 ```
+📬 Contact
+For inquiries, reach out:
+📧 Email: walidelmarassy@gmail.com
 
 
 
